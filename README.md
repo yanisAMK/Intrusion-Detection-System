@@ -12,4 +12,4 @@ The IDS utilizes two popular datasets for training and evaluation:
    - [CIC IDS 2017 Dataset](https://www.unb.ca/cic/datasets/ids-2017.html)
 
 ## Framework for Federated Learning
-The framework used for federated learning is Flower, which supports multiple aggregation algorithms including FedAvg, FedAvgM, and FedAdam.
+The framework used for federated learning is [Flower](https://flower.dev/), which supports multiple aggregation algorithms including FedAvg, FedAvgM, and FedAdam.
